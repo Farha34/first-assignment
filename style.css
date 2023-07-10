@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner{
+    background-color: rgba(229, 84, 115, 0.10);
+    width: 1900px;
+    height: 800px;
+    
+}
+.button-1{
+       background-color: #E55473;
+       border-radius: 7px;
+       padding: 20px 40px;
+       border: none;
+       color: white;
+       font-size: 18px;
+       font-style: normal;
+       font-weight: 600;
+     }
+ 
+nav {
+    display: flex; 
+    /* margin: 0px 220px; */
+    align-items: center;
+    
+
+}
