@@ -26,9 +26,30 @@ nav {
   
 
 }
-/* banner section */
-.banner{
+/* headder section */
+.header{
   background-color: rgba(229, 84, 115, 0.10);
   width: 1900px;
   height: 800px;
+ 
+}
+/* banner section */
+.banner{
+  padding: 15px 0 0px 240px;
+  display: flex;
+  align-items: center;
+ 
+}
+.banner-photo{
+  width: 630px;
+  height: 785px;
+  padding-left: 200px;
+  
+}
+.banner-title{
+  font-size: 60px;
+  padding-top: 1;
+}
+.banner-pgh{
+  font-size: 18px;
 }
