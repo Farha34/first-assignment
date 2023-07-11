@@ -5,7 +5,7 @@
 body{
   font-family:'Open Sans', sans-serif;
 }
-
+/* header section start */
 .main-header{
   display: flex;
   justify-content: space-between;
@@ -39,4 +39,20 @@ padding: 200px;
  height: 700px;
  padding-top: 110px;
 
+}
+/* header section end */
+
+.title{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.featured{
+  color: rgba(58, 132, 145, 0.747);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
 }
