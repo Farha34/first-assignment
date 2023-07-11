@@ -41,7 +41,7 @@ body {
 .banner-photo {
   width: 630px;
   height: 785px;
-  padding-left: 200px;
+  padding-right: 200px;
 
 }
 
@@ -79,7 +79,43 @@ body {
   display: flex;
   justify-content: space-around;
   padding-top: 100px;
+
 }
-.flowers-icon{
+#first-1{
+  /* align-items: center; */
+  /* border: 2px solid aqua; */
+background-color: rgb(127, 82, 218);
+border-top-left-radius: 160px;
+border-top-right-radius: 160px;
+width: 300px;
+height: 350px;
+padding-right: 20px;
+
+}
+
+#second-2{
+  /* align-items: center; */
+  /* border: 2px solid aqua; */
+background-color: aqua;
+border-top-left-radius: 160px;
+border-top-right-radius: 160px;
+width: 300px;
+height: 350px;
+padding-right: 20px;
+}
+#third-3{
+  /* align-items: center; */
+  /* border: 2px solid aqua; */
+background-color: rgb(31, 121, 15);
+border-top-left-radius: 160px;
+border-top-right-radius: 160px;
+width: 300px;
+height: 350px;
+padding-right: 10px;
+}
+.icon-1{
+  
   align-items: center;
+  width: 270px;
+  height: 350px;
 }
