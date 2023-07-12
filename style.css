@@ -50,6 +50,8 @@ body {
 }
 
 /* header section end */
+
+
 /* 1st section */
 .title {
   color: #272727;
@@ -113,6 +115,8 @@ ul{
 li{
   list-style: none;
 }
+
+
 /* this a 2nd section */
 .section-2{
   display: flex;
@@ -144,4 +148,9 @@ margin-left: 250px;
 .section-button:hover{
   color: rgb(0, 255, 179);
   cursor: pointer;
+}
+.section-2-photo{
+  height: 400px;
+  padding-right: 100px;
+  padding-bottom: 150px;
 }
