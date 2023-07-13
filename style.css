@@ -209,3 +209,16 @@ input[type=submit]{
   background-color: #E55473;
   color: azure;
 }
+/* footer section */
+.footer-container{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-top: 80px;
+  height: 30vh;
+}
+.footer-color{
+  color: darkkhaki;
+}
+
+
